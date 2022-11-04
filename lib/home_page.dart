@@ -11,7 +11,7 @@ class HomeWidget extends StatelessWidget {
       appBar: AppBar(
         elevation: 0,
         centerTitle: true,
-        title: Text("کوویز کویین"),
+        title: Text("کوویز"),
         backgroundColor: Colors.black,
       ),
       body: SafeArea(
